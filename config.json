@@ -26,7 +26,7 @@
         "duangua.js"
     ],
     "eventDisabled": [],
-    "BOXNOTI": "7082665011828775",
+    "BOXNOTI": "61550291008520",
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
@@ -34,7 +34,7 @@
     "BOTNAME": "zlight",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100093159697376",
+        "61550291008520",
         "",
         "",
         "",
@@ -44,7 +44,7 @@
         ""
     ],
     "NDH": [
-        ""
+        "61550291008520"
     ],
     "DATABASE": {
         "sqlite": {
@@ -57,7 +57,7 @@
         "Theme": "flower",
         "Admin": "ADMIN",
         "Setup": {
-            "BOT": "Tên bot thế thôi",
+            "BOT": "Zlight",
             "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
         }
     },
